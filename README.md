@@ -1,5 +1,8 @@
 # mira
 
+i made these!
+
+### coming soon: generator and designer script
 
 ﾟ.+:｡∩(・ω・)∩ﾟ.+:｡
 
