@@ -2,7 +2,8 @@
 
 i made these!
 
-### coming soon: generator and designer script
+### generator and designer script
+todo
 
 ﾟ.+:｡∩(・ω・)∩ﾟ.+:｡
 
